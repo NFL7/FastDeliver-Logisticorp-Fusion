@@ -46,3 +46,6 @@ Avancement par phase
  Objectif Business
 Fournir aux décideurs une vue synthétique des risques et du niveau de maturité de gouvernance afin de sécuriser la fusion et limiter les risques opérationnels et réglementaires.
 
+## 📷 Aperçu du Dashboard
+
+![KPI](Final_Dashboard_SAE2.pdf)
